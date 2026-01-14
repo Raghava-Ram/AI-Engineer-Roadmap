@@ -66,10 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project can be deployed to any static hosting service that supports Next.js applications, such as Vercel, Netlify, or Cloudflare Pages.
 
-### Vercel
+## Live Demo
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fai-engineer-roadmap)
+[[Deployed with Vercel](https://ai-engineer-roadmap-eight.vercel.app/)]
 
-1. Click the button above
-2. Follow the Vercel deployment wizard
-3. Your site will be live at `your-username.vercel.app`
+
