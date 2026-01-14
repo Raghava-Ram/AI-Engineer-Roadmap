@@ -21,7 +21,7 @@ A comprehensive learning path and resource collection for aspiring AI Engineers.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-engineer-roadmap.git
+   git clone https://github.com/Raghava-Ram/ai-engineer-roadmap.git
    cd ai-engineer-roadmap
    ```
 
